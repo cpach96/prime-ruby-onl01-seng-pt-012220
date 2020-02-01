@@ -8,7 +8,3 @@ else
     num % n != 0 
   end
 end
-
-
-
-end
